@@ -8,7 +8,7 @@ This script is not for power users of Plex, it is not 100% automated and some ma
 ### How it works?
 The main idea behind this was to rename episodes and shows when they have been downloaded so that they would be Plex friendly.
 
-Orginally Folder Structure Could look something like this (Nonsense can be information that we really don't care about such as Torrent Creator, Encoding Level, etc) (XX stands for number)
+Orginal Folder Structure could look something like this (Nonsense can be information that we really don't care about such as Torrent Creator, Encoding Level, etc) (XX stands for number)
 ```
 ShowName_<nonsense>
   - EpisodeXX_<nonsense>
