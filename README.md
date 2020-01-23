@@ -43,3 +43,5 @@ The biggest limitation is that some manual work is required. On the bright side,
 If you have multiple seasons to a show I would recommend just have separate folders initially
 ```ShowName_S01``` and ```ShowName_S02``` after the script is run you can move the subfolders ```Season01``` and ```Season02``` into just ```ShowName``` folder
 
+Note: I'm not a professional Python developer by trade. I just thought this would be a little fun side project to work on to help learn more about Python. So I'm open to suggestions and feedback, not sure if I'll make big updates to this. 
+
